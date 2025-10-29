@@ -9,7 +9,7 @@
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
-merge conflicts across multiple branches using proper Git workflows.
+merge conflicts across multiple branches using proper Git workflows successfully.
 
 ## Commands Used
 
