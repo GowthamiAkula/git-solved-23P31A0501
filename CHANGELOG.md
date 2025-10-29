@@ -1,0 +1,8 @@
+ - 2cd6d7e: Update README.md with latest changes (GowthamiAkula, 2 days ago)
+ - 91ef129: docs: Update README (GowthamiAkula, 2 days ago)
+ - 5b3208c: docs: Add FAQ section (GowthamiAkula, 2 days ago)
+ - 58574f3: merge: Resolve all conflicts between main and dev branches (GowthamiAkula, 2 days ago)
+ - 02011a5: updating dev (Hanu Gupta, 6 days ago)
+ - 0312c6f: updating main (Hanu Gupta, 6 days ago)
+ - fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+ - ae630eb: Initial commit (Hanu Gupta, 6 days ago)
