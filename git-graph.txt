@@ -1,0 +1,26 @@
+*   b631492 (HEAD -> main, origin/main) Merge branch 'main' of https://github.com/GowthamiAkula/git-solved-23P31A0501
+|\  
+| * 9d105ba Create GIT_JOURNEY.md
+* | ea62f71 docs: Add changelog
+|/  
+* 2cd6d7e Update README.md with latest changes
+| * 773704e (feature/another-feature) Bad commit
+| | * 216f42a (origin/feature/another-feature) save work before rebase
+| |/  
+| * 3ee8be5 Update README.md content for merge
+| * 93931bd feat: Add test feature
+| * 966d91c feat: Add new feature
+|/  
+* 91ef129 (tag: v1.0.0) docs: Update README
+* 5b3208c docs: Add FAQ section
+| * 4e6bb78 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   58574f3 merge: Resolve all conflicts between main and dev branches
+|\  
+| * 02011a5 (instructor/dev, dev) updating dev
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
